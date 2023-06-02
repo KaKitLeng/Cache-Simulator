@@ -1,5 +1,5 @@
 **Author**: Ka Kit Leng\
-**Email**: kakit.leng@wmich.edu\
+**Email**: jasonlengkakit@gmail.com\
 **Assignment**: Cache Simulator\
 **Language**: Python3
 
